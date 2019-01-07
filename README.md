@@ -23,20 +23,20 @@ After an intense amount of writing last week I was slightly burnt out so this we
 ## week 12 
 This week we had our deadline for our group game, most of our time we spent going through the code and adding comments increasing the overall maintainability. Overall, I am happy with the progress we have made with this project considering the weight is has on our course. We have had some attendance issues with people not showing up. Our team has been understanding with the fact that our mark for the project is much less than the other courses, so they can’t expect us to put as much work in but even still we have all been pulling our weight adequately.  
 
-## Career goal
+## Career goals
 My career goal is to work as a computing professional. I would like to work in the computing industry making use of my programming skills and knowledge.
 
 The course is helping me progress towards my career goal by providing insight into programming and workplace practices. Learning how to code in many different programming languages makes me a more desirable candidate for programming jobs, it also increases my overall understanding of general programming practices. During the course I have been learning how to use tools like GitHub and Slack this is a large step towards my future goal as they are essential for most modern day computing professional jobs. A challenge I feel that I will face will be switching from the university environment to a workplace environment.
 
 ## Five Challenges
 The five main challenges I have faced are:
-•	Managing stress levels
-•	Prioritising work
-•	Understanding best programming practices
-•	Setting up playtesting sessions
-•	Javascript with HTML
+*	Managing stress levels
+*	Prioritising work
+*	Understanding best programming practices
+*	Setting up playtesting sessions
+*	Javascript with HTML
 
-## Five Smart Targets
+Smart targets are found in attached pdf
 
 
 
